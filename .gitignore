@@ -5,3 +5,6 @@ dataset.csv
 d2.csv
 model_train.ipynb
 small_dataset.csv
+
+venip.csv
+venip_test.csv
