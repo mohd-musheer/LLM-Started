@@ -8,3 +8,7 @@ small_dataset.csv
 
 venip.csv
 venip_test.csv
+
+venip_train.ipynb
+venip_test.ipynb
+venip_train.csv
